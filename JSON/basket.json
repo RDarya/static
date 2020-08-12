@@ -1,0 +1,18 @@
+{
+  "amount": "123.00",
+  "countGoods": 2,
+  "contents": [
+    {
+      "id": 0,
+      "name": "MANGO T-SHIRT",
+      "price": "52.00",
+      "quantity": 1
+    },
+    {
+      "id": 1,
+      "name": "PEOPLE BLOUSE",
+      "price": "71.00",
+      "quantity": 1
+    }
+  ]
+}
