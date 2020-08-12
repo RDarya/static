@@ -1,50 +1,50 @@
 [
     {
         "name": "MANGO T-SHIRT",
-        "img": "52.00",
-        "price": "https://raw.githubusercontent.com/RDarya/static/master/img/item_1.png",
+        "price": "52.00",
+        "img": "https://raw.githubusercontent.com/RDarya/static/master/img/item_1.png",
         "id": 0
     },
     {
         "name": "PEOPLE BLOUSE",
-        "img": "71.00",
-        "price": "https://raw.githubusercontent.com/RDarya/static/master/img/item_2.png",
+        "price": "71.00",
+        "img": "https://raw.githubusercontent.com/RDarya/static/master/img/item_2.png",
         "id": 1
     },
     {
         "name": "ZARA JACKET",
-        "img": "62.00",
-        "price": "https://raw.githubusercontent.com/RDarya/static/master/img/item_3.png",
+        "price": "62.00",
+        "img": "https://raw.githubusercontent.com/RDarya/static/master/img/item_3.png",
         "id": 2
     },
     {
         "name": "MANGO BLOUSE",
-        "img": "55.00",
-        "price": "https://raw.githubusercontent.com/RDarya/static/master/img/item_4.png",
+        "price": "55.00",
+        "img": "https://raw.githubusercontent.com/RDarya/static/master/img/item_4.png",
         "id": 3
     },
     {
         "name": "BANANA REPUBLIC",
-        "img": "60.00",
-        "price": "https://raw.githubusercontent.com/RDarya/static/master/img/item_5.png",
+        "price": "60.00",
+        "img": "https://raw.githubusercontent.com/RDarya/static/master/img/item_5.png",
         "id": 4
     },
     {
         "name": "ZARA HAT",
-        "img": "85.00",
-        "price": "https://raw.githubusercontent.com/RDarya/static/master/img/item_6.png",
+        "price": "85.00",
+        "img": "https://raw.githubusercontent.com/RDarya/static/master/img/item_6.png",
         "id": 5
     },
     {
         "name": "MANGO TROUSERS",
-        "img": "45.00",
-        "price": "https://raw.githubusercontent.com/RDarya/static/master/img/item_7.png",
+        "price": "45.00",
+        "img": "https://raw.githubusercontent.com/RDarya/static/master/img/item_7.png",
         "id": 6
     },
     {
         "name": "ZARA SHORTS",
-        "img": "30.00",
-        "price": "https://raw.githubusercontent.com/RDarya/static/master/img/item_8.png",
+        "price": "30.00",
+        "img": "https://raw.githubusercontent.com/RDarya/static/master/img/item_8.png",
         "id": 7
     }
 ]
