@@ -6,13 +6,15 @@
       "id": 0,
       "name": "MANGO T-SHIRT",
       "price": "52.00",
-      "quantity": 1
+      "img": "https://raw.githubusercontent.com/RDarya/static/master/img/item_1.png",
+      "amount": 1
     },
     {
       "id": 1,
       "name": "PEOPLE BLOUSE",
       "price": "71.00",
-      "quantity": 1
+      "img": "https://raw.githubusercontent.com/RDarya/static/master/img/item_2.png",
+      "amount": 1
     }
   ]
 }
