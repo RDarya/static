@@ -1,0 +1,51 @@
+[
+    {
+        "itemName": "MANGO T-SHIRT",
+        "itemImg": "52.00",
+        "itemPrice": "https://raw.githubusercontent.com/RDarya/static/master/img/item_1.png",
+        "itemId": 0
+    },
+    {
+        "itemName": "PEOPLE BLOUSE",
+        "itemImg": "71.00",
+        "itemPrice": "https://raw.githubusercontent.com/RDarya/static/master/img/item_2.png",
+        "itemId": 1
+    },
+    {
+        "itemName": "ZARA JACKET",
+        "itemImg": "62.00",
+        "itemPrice": "https://raw.githubusercontent.com/RDarya/static/master/img/item_3.png",
+        "itemId": 2
+    },
+    {
+        "itemName": "MANGO BLOUSE",
+        "itemImg": "55.00",
+        "itemPrice": "https://raw.githubusercontent.com/RDarya/static/master/img/item_4.png",
+        "itemId": 3
+    },
+    {
+        "itemName": "BANANA REPUBLIC",
+        "itemImg": "60.00",
+        "itemPrice": "https://raw.githubusercontent.com/RDarya/static/master/img/item_5.png",
+        "itemId": 4
+    },
+    {
+        "itemName": "ZARA HAT",
+        "itemImg": "85.00",
+        "itemPrice": "https://raw.githubusercontent.com/RDarya/static/master/img/item_6.png",
+        "itemId": 5
+    },
+    {
+        "itemName": "MANGO TROUSERS",
+        "itemImg": "45.00",
+        "itemPrice": "https://raw.githubusercontent.com/RDarya/static/master/img/item_7.png",
+        "itemId": 6
+    },
+    {
+        "itemName": "ZARA SHORTS",
+        "itemImg": "30.00",
+        "itemPrice": "https://raw.githubusercontent.com/RDarya/static/master/img/item_8.png",
+        "itemId": 7
+    }
+
+]
