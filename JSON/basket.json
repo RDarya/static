@@ -1,7 +1,7 @@
 {
-  "amount": "123.00",
-  "countGoods": 2,
-  "contents": [
+  "totalAmount": 2,
+  "totalPrice": 203,
+  "content": [
     {
       "id": 0,
       "name": "MANGO T-SHIRT",
